@@ -6,8 +6,16 @@ repo_url: 'https://github.com/dbnetsoft/IDCamProDocumentation'
 nav:
     - Home:
         - Introduction: index.md
-        - Installation: home/installation/index.md
-   
+        - Setup: home/setup.md
+        - Pre-Event Checklist: home/preeventchecklist.md
+    - Configuration:
+        - Overview: configuration/index.md
+        - Timing Devices: 
+            - Overview: configuration/timingdevices/index.md
+            - ALGE-Timing: configuration/timingdevices/algetiming.md
+            - Race Result: configuration/timingdevices/raceresult.md
+        - Cameras: 
+            - Overview: configuration/cameras/index.md             
 theme:
     name: "material"
     custom_dir: "overrides"
