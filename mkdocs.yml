@@ -15,7 +15,9 @@ nav:
             - ALGE-Timing: configuration/timingdevices/algetiming.md
             - Race Result: configuration/timingdevices/raceresult.md
         - Cameras: 
-            - Overview: configuration/cameras/index.md             
+            - Overview: configuration/cameras/index.md       
+        - Transponder Mapping: 
+            - Overview: configuration/transpondermapping/index.md             
 theme:
     name: "material"
     custom_dir: "overrides"
