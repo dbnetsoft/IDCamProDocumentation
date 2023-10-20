@@ -8,7 +8,7 @@ IDCamPro is a software for recording finish-line images as a backup. Whenever a 
 
 The following features are currently available: 
 
-* Recording images from one or more sources (IP cameras like Axis or Hikvision, NDI, Blackmagic Design)
+* Recording images from one or more sources (IP cameras like Axis or Hikvision, NDI, Blackmagic Design, Webcams, GoPros, ...) - only AXIS is fully supported 
 * Taking impulses and passings from one or more timing devices (ALGE-Timing, RaceResult, TagHeuer)
 * Search for timestamps and bibs easily
 * Export all images with bib markers at once for e.g. display on websites
