@@ -2,7 +2,7 @@
 
 ## What is IDCamPro
 
-IDCamPro is a software for recording finish-line images as a backup. Whenever a lightbeam or a transponder occurs on the finish-line a recording is triggered. These recorded images are augmented with time of day information as well as bib number. 
+IDCamPro is a software for recording finish-line images as a backup - not only when a transponder tag is not read properly but also on regular finishes. Whenever a lightbeam or a transponder occurs on the finish-line a recording is triggered. These recorded images are augmented with time of day information as well as bib number. 
 
 ## Feature Overview
 
