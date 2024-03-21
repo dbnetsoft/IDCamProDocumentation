@@ -9,3 +9,4 @@
     * [RACE RESULT Devices](configuration/timing/race-result-devices.md)
   * [Cameras](configuration/cameras.md)
   * [Transponder Mappings](configuration/transponder-mappings.md)
+* [Release Notes](release-notes.md)
