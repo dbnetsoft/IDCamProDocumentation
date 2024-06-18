@@ -25,7 +25,7 @@ When working offline (e.g. checking out the event and using the local race resul
 
 {% hint style="info" %}
 Protocol is http (not https) and host is localhost:8181 (no www, take care with the :):\
-`http://localhost:8181`
+`http://localhost:8182`
 {% endhint %}
 
 | URL                                                                                  | Export Data                                                                                                                   |
