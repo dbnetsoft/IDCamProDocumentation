@@ -3,6 +3,7 @@
 * [General](README.md)
   * [Installation](general/installation.md)
   * [Pre-Event Checklist](general/pre-event-checklist.md)
+  * [Settings & Configs](general/settings-and-configs.md)
 * [Configuration](configuration/README.md)
   * [Timing](configuration/timing/README.md)
     * [ALGE-Timing Devices](configuration/timing/alge-timing-devices.md)
