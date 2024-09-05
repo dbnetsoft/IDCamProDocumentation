@@ -3,7 +3,7 @@
 IDCamPro can connect to one or more cameras or image sources at the same time. Supported sources are:
 
 * Axis or Hikvision camera, using either H.264 streams or MJPEG (the later is recommended as usually image qualitiy for stills is better but there is more network load))
-* Local webcams (USB or laptop)
+* Local webcams (USB or integrated)
 * HDMI or SDI via Blackmagic Design Decklink devices
 * NDI sources
 
