@@ -8,7 +8,7 @@
   * [Timing](configuration/timing/README.md)
     * [ALGE-Timing Devices](configuration/timing/alge-timing-devices.md)
     * [RACE RESULT Devices](configuration/timing/race-result-devices.md)
-  * [Cameras](configuration/cameras/README.md)
+  * [Cameras](configuration/cameras.md)
     * [Camera Recommendations](configuration/cameras/camera-recommendations.md)
   * [Transponder Mappings](configuration/transponder-mappings.md)
   * [RACE RESULT 12](configuration/race-result-12/README.md)
