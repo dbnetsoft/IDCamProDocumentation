@@ -39,3 +39,9 @@ RRexchange and IDCamPro use different local ports in order to be able to run sid
 ## Online & Offline
 
 _Name_ can be defined as you like, e.g. RRExchange. _Timing Point/Split_ and _Filter_ can be set to whatever you need, however you can always filter in RRExchange as well - so best is to leave it on _All_.&#x20;
+
+
+
+{% hint style="info" %}
+In case you want to keep the mapping in IDCamPro and not do it in RR12, you can replace _\[Bib]_ with _\[RD\_Transponder]_ - then RR12 transmits the active transponder code and IDCamPro is doing the mapping.
+{% endhint %}
