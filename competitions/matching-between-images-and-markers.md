@@ -10,5 +10,13 @@ All of these clocks may never be exactly the same, therefore IDCamPro cannot rea
 
 The interval around the selected time can be changed in `Config` - `Settings` -  `Matching Bib/Record markers.`Increasing the interval shows more markers at the same time next to a frame, decreasing the value shows less marker.&#x20;
 
-In case no markers can be matched and even no image is visible, this porbably means there isa bigger mismatch between the time of the receiving frames (computer time or software time) and the time of the markers (the timing device's time and delay in sending). In these situations it is good to observe the [synchronisation ](synchronisation.md)section.&#x20;
+## Problems
+
+Usually you should follow the rules in the Synchronization section upfront the competition in order to have images and markers at roughly the same timebase. If there still discrepancies, you can also use the time offset functionality in the Camera view.&#x20;
+
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="262"><figcaption></figcaption></figure>
+
+Adjusting the time shift will change the frames and markers for the selected time instanctly. You will then see that the result will get better.
+
+<figure><img src="../.gitbook/assets/Untitled Project (3).gif" alt="" width="375"><figcaption></figcaption></figure>
 

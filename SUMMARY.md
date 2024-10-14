@@ -17,7 +17,7 @@
   * [Transponder Mappings](configuration/transponder-mappings.md)
   * [RACE RESULT 12](configuration/race-result-12/README.md)
     * [Exporter](configuration/race-result-12/exporter.md)
-* [Competitions](competitions/README.md)
+* [Competitions](competitions.md)
   * [Markers & Recordings](competitions/markers-and-recordings.md)
   * [Matching between images and markers](competitions/matching-between-images-and-markers.md)
   * [Synchronisation](competitions/synchronisation.md)
