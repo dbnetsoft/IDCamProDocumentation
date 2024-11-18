@@ -1,6 +1,6 @@
 # Live View
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="252"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="252"><figcaption></figcaption></figure>
 
 Live view shows a preview of the latest received image from the camera. The view is not refreshed in real-time but only each second (can be changed in `?` - `Extended Settings` - `FrameLoadInterval`).&#x20;
 
