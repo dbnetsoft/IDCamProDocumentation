@@ -14,11 +14,15 @@ The following devices are supported:
 
 As there can be many remote devices and/or loops connected to a decoder or RR12 event file, differentiation is based on channel and loop IDs.
 
-| Key                | Values                  | Example                        |
-| ------------------ | ----------------------- | ------------------------------ |
-| Start Channels     | `M<channelId>-<loopId>` | `M3-1` for loop 1 on channel 3 |
-| Recording Channels | `<channelId>-<loopId>`  | `2-1` for loop 1 on channel 2  |
-| Bib Channels       | `<channelId>-<loopId>`  | `5-1` for loop 1 on channel 5  |
+| Key                    | Values                  | Example                        |
+| ---------------------- | ----------------------- | ------------------------------ |
+| Start/Impulse Channels | `M<channelId>-<loopId>` | `M3-1` for loop 1 on channel 3 |
+| Recording Channels     | `<channelId>-<loopId>`  | `2-1` for loop 1 on channel 2  |
+| Bib Channels           | `<channelId>-<loopId>`  | `5-1` for loop 1 on channel 5  |
+
+{% hint style="info" %}
+Ubidium does not transmit channel and loop information, so here a trigger is only M without channel and loop id.
+{% endhint %}
 
 #### Passive <a href="#passive" id="passive"></a>
 
