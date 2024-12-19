@@ -1,5 +1,13 @@
 # Release Notes
 
+The following list only hightlight key changes that need more documentation. \
+All other changes are included in the [setup release notes](https://downloads.dbnetsoft.com/idcampro/history.txt).
+
+#### 1.0.53 (2024-12-19)
+
+* For performance reasons, the count of matching bibs, frames and records has been removed in each datagrid
+* A new warning tab has been added, that allows to find out record markers without matching bib markers to detect lightbeam crossings without any bib.
+
 #### 1.0.49 @ 2024-11-18
 
 *   A list of all recorded frames can be accessed and all frames can be exported in case of syncing issues
