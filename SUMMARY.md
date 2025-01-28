@@ -14,6 +14,7 @@
     * [RACE RESULT Devices](configuration/timing/race-result-devices.md)
   * [Cameras](configuration/cameras.md)
     * [Camera Recommendations](configuration/cameras/camera-recommendations.md)
+    * [Reolink](configuration/cameras/reolink.md)
   * [Transponder Mappings](configuration/transponder-mappings.md)
   * [RACE RESULT 12](configuration/race-result-12/README.md)
     * [Exporter](configuration/race-result-12/exporter.md)
