@@ -15,7 +15,7 @@ IDCamPro needs the following prerequisites:
 
 First make sure that all prerequisites are installed. Then download the latest version from here:
 
-[ Setup](https://downloads.dbnetsoft.com/idcampro/Setup\_IDCamProexe)
+[Setup](https://downloads.dbnetsoft.com/idcampro/Setup_IDCamPro.exe)
 
 Then start the Setup process by starting `Setup_IDCamPro.exe`. If .NET 8.0 Desktop Runtime is missing the setup program will automatically download it and install it.
 
