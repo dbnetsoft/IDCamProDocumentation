@@ -9,6 +9,7 @@ IDCamPro needs the following prerequisites:
 * ARM64 (newer Mac computers) are supported but has limitations
   * Only x64 emulation
   * USB Dongle is not recognized
+  * Only MJPEG cameras are supported (no RTSP/H.264)
 * Latest .NET Desktop Runtime - Download[^1]
 
 ### Installation <a href="#installation" id="installation"></a>
