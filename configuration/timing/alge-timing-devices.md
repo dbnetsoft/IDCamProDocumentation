@@ -7,9 +7,11 @@ The following devices are supported:
 * ALGE-Timy in most programs, e.g. Backup or PC-Timer
 * TDC 8000/8001 by selecting ´ALGE-Timing Timy (Backup)´ as timing device
 
+FDS devices can also work with the ALGE-Timing protocol.
+
 ### Configuration <a href="#configuration" id="configuration"></a>
 
-ALGE-Timing channels are from C0 to C9, usually being C0 the start and C1 the finish. The meaning of each setting is described [here](https://dbnetsoft.github.io/IDCamProDocumentation/configuration/timingdevices/).
+ALGE-Timing channels range from C0 to C9, usually being C0 the start and C1 the finish. The meaning of each setting is described [here](https://dbnetsoft.github.io/IDCamProDocumentation/configuration/timingdevices/).
 
 | Key                     | Values         | Default |
 | ----------------------- | -------------- | ------- |
