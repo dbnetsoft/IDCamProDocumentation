@@ -3,6 +3,14 @@
 The following list only hightlight key changes that need more documentation. \
 All other changes are included in the [setup release notes](https://downloads.dbnetsoft.com/idcampro/history.txt).
 
+#### 25.9.1 (2025-09-01)
+
+* Changed to new versioning scheme (year.month.numberofreleaseinmonth)
+*   Recording can be disabled until a specified time (e.g. setup in the morning and then only activate recording 20min before scheduled finish)\
+
+
+    <figure><img src=".gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+
 #### 1.0.53 (2024-12-19)
 
 * For performance reasons, the count of matching bibs, frames and records has been removed in each datagrid
