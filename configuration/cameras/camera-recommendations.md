@@ -3,18 +3,16 @@
 [Axis Communications](https://www.axis.com/) cameras are recommended to be used for IDCamPro. Benefits are
 
 * Weather-proof
-* MJPEG and H.264 support
+* MJPEG and H.264/H.265 support
 * Some models support changeable lenses
 * Integration with [CamStreamer](https://camstreamer.com/)
 * Many more features
-
-
 
 ## Considerations
 
 Full-HD resolution (1920x1080) is more than enough usually - higher resolution casues more CPU or network load and may not be working on smaller sized laptops.&#x20;
 
-Standard framerate of 25/30 Hz is enough (50/60 Hz are fine as well) - no need for higher framerates.
+Standard framerate of 25/30 Hz is enough (50/60 Hz are fine as well) - no need for higher framerates, but supported when using good computers.
 
 ## Models
 

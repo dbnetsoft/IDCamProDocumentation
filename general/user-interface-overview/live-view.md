@@ -2,8 +2,8 @@
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="252"><figcaption></figcaption></figure>
 
-Live view shows a preview of the latest received image from the camera. The view is not refreshed in real-time but only each second (can be changed in `?` - `Extended Settings` - `FrameLoadInterval`).&#x20;
+This view shows all configured cameras including the live image and the source's  FPS rate (should match the one you are expecting from your source) and serial number of the camera.&#x20;
 
-The framerate is displayed at the top of the view and should never drop below 10 frames per second.&#x20;
+#### Time Shift
 
-In the lower right corner you can adjust the offset between image's time and timing system time (see [synchronisation](../../competitions/synchronisation.md)).&#x20;
+The _Time Shift_ textbox allows to shift the camera's frame timestamps back and forth, in order to allow then to match with impulses and transponders (see [synchronisation](../../competitions/synchronisation.md)).&#x20;

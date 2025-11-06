@@ -6,8 +6,8 @@ Navigation view allows to [navigate](../../competitions/navigation/) to points i
 
 Matching markers for the selected time have a checkbox at the right hand side.&#x20;
 
-When new recordings are done, there are three options what to do in terms of navigation:&#x20;
+The navigation view allows to chose from any bib or record marker to jump directly to it's timestamp. Notes can be added to these markers as well.&#x20;
 
-1. Do nothing - just record the frames, but stay on the selected time
-2. Follow the new recording and jump to the first frame of the new recording
-3. Same as 2, but only do this once and then stay at the new recording's selected time
+#### On New Recording
+
+This setting allows to define what happens on new recordings - should the software jump automatically to that time of day or remain where it is currently (allowing for operators to browse through while still recording new frames)
