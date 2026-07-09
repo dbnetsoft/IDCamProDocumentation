@@ -32,6 +32,10 @@ Ubidium does not transmit channel and loop information, so here a trigger is onl
 | Recording Channels | `M`, `F` | `M F` for recording on both a trigger and a passing |
 | Bib Channels       | `F`      | `F`                                                 |
 
-`M`stands for manual input on the active extension by either a lightbeam or a push button.
+{% hint style="info" %}
+Ubidium needs to be M0-0 for manual channels
+{% endhint %}
+
+`M` stands for manual input on the active extension by either a lightbeam or a push button.
 
 Rising/falling edge cannot be used.
