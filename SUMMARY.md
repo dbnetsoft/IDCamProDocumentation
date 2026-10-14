@@ -12,6 +12,7 @@
   * [Timing](configuration/timing/README.md)
     * [ALGE-Timing Devices](configuration/timing/alge-timing-devices.md)
     * [FDS Devices](configuration/timing/fds-devices.md)
+    * [TAG Heuer](configuration/timing/tag-heuer.md)
     * [RACE RESULT Devices](configuration/timing/race-result-devices.md)
   * [Cameras](configuration/cameras.md)
     * [Camera Recommendations](configuration/cameras/camera-recommendations.md)
