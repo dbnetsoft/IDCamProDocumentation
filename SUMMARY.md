@@ -19,6 +19,7 @@
     * [Reolink](configuration/cameras/reolink.md)
     * [Axis](configuration/cameras/axis/README.md)
       * [Motion Detection](configuration/cameras/axis/motion-detection.md)
+    * [Motion Detection](configuration/cameras/motion-detection.md)
   * [Transponder Mappings](configuration/transponder-mappings.md)
   * [RACE RESULT 12/14](configuration/race-result-12-14/README.md)
     * [Exporter](configuration/race-result-12-14/exporter.md)
