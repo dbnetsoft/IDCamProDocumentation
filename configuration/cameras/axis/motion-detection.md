@@ -19,8 +19,12 @@ Axis camera needs to send a trigger to IDcamPro via network. This is done by cre
 
 * Go to _Settings_ - _System_ - _Events_
 * Create a new rule that is triggered by _Motion Detection_
-* Action must be created to connect to IDCamPro on the IP address of IDCamPro laptop and port 8889
-* The text to send to IDCamPro must be "_motion_" without parantheses
+* Action must be created to connect to IDCamPro on the IP address of IDCamPro laptop and port 8883
+* The text to send to IDCamPro must be "_motion_" without the quotes
+
+{% hint style="warning" %}
+Older versions of IDCamPro used port 8889, which is also the exchange port of Photofinish - both programs could not run on the same computer. IDCamPro now uses 8883 and moves configs saved with 8889 to 8883 when they are loaded. Change the rule of cameras set up for an older version to port 8883.
+{% endhint %}
 
 {% hint style="info" %}
 IDCamPro also has its own built-in motion detection that works without any camera-side configuration - see [Motion Detection](../motion-detection.md). The two are independent; use whichever suits the camera, usually not both at once.
